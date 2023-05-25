@@ -1,9 +1,6 @@
 # About me
 
 ![badge](https://joassanon.vercel.app/api/counter)
-![badge](https://github-readme-stats.vercel.app/api?username=joassanon&show_icons=true&count_private=true)
-![badge](https://github-readme-streak-stats.herokuapp.com/?user=joassanon)
-![badge](https://github-profile-trophy.vercel.app/?username=joassanon)
 
 ---
 
@@ -11,8 +8,8 @@
     <summary>
         <strong>Education</strong>
     </summary>
-- 📖 **Fullstack Web Development**\
-📆 2016 - 2018\
+  - 📖 **Fullstack Web Development**\
+  📆 2016 - 2018\
   [![badge](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://freecodecamp.org)
   <details>
     <summary>🧑‍🎓</summary>
@@ -116,6 +113,8 @@
 
 </details>
 
+![badge](https://github-profile-trophy.vercel.app/?username=joassanon)
+
 ---
 
 <details>
@@ -135,3 +134,6 @@
 </details>
 
 ---
+
+![badge](https://github-readme-stats.vercel.app/api?username=joassanon&show_icons=true&count_private=true)
+![badge](https://github-readme-streak-stats.herokuapp.com/?user=joassanon)
