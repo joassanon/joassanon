@@ -115,6 +115,8 @@
 
 </details>
 
+---
+
 ![badge](https://github-profile-trophy.vercel.app/?username=joassanon&no-bg=true&no-frame=true&theme=algolia)
 
 ---
@@ -138,4 +140,7 @@
 ---
 
 ![badge](https://github-readme-stats.vercel.app/api?username=joassanon&show_icons=true&count_private=true&theme=transparent&hide_border=true)
+
+---
+
 ![badge](https://github-readme-streak-stats.herokuapp.com/?user=joassanon&theme=transparent&hide_border=true)
