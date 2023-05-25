@@ -8,13 +8,13 @@
     <summary>
         <strong>Education</strong>
     </summary>
-    - 📖 **Fullstack Web Development** \
-      📆 2016 - 2018 \
-    [![badge](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://freecodecamp.org)
+    
+- 📖 **Fullstack Web Development**\
+  📆 2016 - 2018\
+  [![badge](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://freecodecamp.org)
 
   <details>
     <summary>🧑‍🎓</summary>
-
     ![badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
     ![badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
     ![badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -58,7 +58,7 @@
   <details>
     <summary>&#9874;</summary>
 
-        ![badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+    ![badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
     ![badge](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
     ![badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
     ![badge](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white)
