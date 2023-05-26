@@ -94,7 +94,7 @@ I'm Joas Sanon, a fullstack web developer based in Haiti...
 
   </details>
   
-- 👨‍💻 **Fullstact Web Developer**\
+- 👨‍💻 **Fullstack Web Developer**\
 📆 2021 - present\
   ![badge](https://img.shields.io/badge/IFY%20Media-f8ccab?style=for-the-badge&logo=)
   <details>
