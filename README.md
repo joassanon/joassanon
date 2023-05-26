@@ -3,7 +3,9 @@
 ![badge](https://joassanon.vercel.app/api/counting)
 ![badge](https://img.shields.io/badge/Made%20with%20❤️%20in%20Haiti-red?style=for-the-badge)
 
-I'm Joas Sanon, a fullstack web developer based in 
+I'm Joas Sanon, a fullstack web developer based in Haiti...
+
+> Coding like poetry should be short and concise. ― Santosh Kalwar
 
 ---
 
