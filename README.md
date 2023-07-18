@@ -52,11 +52,6 @@ I'm Joas Sanon, a fullstack web developer based in Haiti...
 
 ---
 
-
-![badge](https://github-profile-trophy.vercel.app/?username=joassanon&no-bg=true&no-frame=true&theme=algolia)
-
----
-
 <details>
     <summary>
         <strong>Workspace</strong>
@@ -72,10 +67,6 @@ I'm Joas Sanon, a fullstack web developer based in Haiti...
   ![badge](https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white")
   ![badge](https://img.shields.io/badge/nvidia-gtx%202080-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white")
 </details>
-
----
-
-![badge](https://github-readme-stats.vercel.app/api?username=joassanon&show_icons=true&count_private=true&theme=transparent&hide_border=true)
 
 ---
 
