@@ -1,4 +1,4 @@
-# About me
+# About myself
 
 ![badge](https://joassanon.vercel.app/api/counting)
 
