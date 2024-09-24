@@ -53,10 +53,8 @@ Completed an extensive program at [freeCodeCamp](https://freecodecamp.org).
 
 ## 🖥️ Workspace Setup
 
-- ![Bodhi Linux](https://img.shields.io/badge/Bhodi%20Linux-76B900?style=for-the-badge&logo=linux&logoColor=white)  
-  **Intel Core i5 9th Gen | 16GB RAM | NVIDIA GTX 2080**
 
-- ![Windows](https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)  
+- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)  
   **Intel Core i7 vPro | 32GB RAM | NVIDIA GTX 2080**
 
 ---
