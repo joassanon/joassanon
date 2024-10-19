@@ -58,5 +58,7 @@ Completed an extensive program at [freeCodeCamp](https://freecodecamp.org).
   **Intel Core i7 vPro | 32GB RAM | NVIDIA GTX 2080**
 
 ---
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joassanon&" alt="joassanon" /></p>
+---
 
 ![Made with ❤️ in Haiti](https://img.shields.io/badge/Made%20with%20❤️%20in%20Haiti-red?style=for-the-badge)
