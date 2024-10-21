@@ -1,6 +1,9 @@
 # 👨‍💻 About Me
 
+[![committers.top badge](https://user-badge.committers.top/haiti_private/joassanon.svg)](https://user-badge.committers.top/haiti_private/joassanon)
+
 ![Profile Views](https://joassanon.vercel.app/api/counting)
+
 
 Hi! I'm **Joas Sanon**, a passionate Fullstack Web Developer from **Haiti**. I believe in creating clean, concise, and impactful code, much like poetry.
 
