@@ -52,18 +52,11 @@ Completed an extensive program at [freeCodeCamp](https://freecodecamp.org).
 
 </details>
 
----
-
-## 🖥️ Workspace Setup
-
-
-- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)  
-  **Intel Core i7 vPro | 32GB RAM | NVIDIA GTX 2080**
 
 ---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joassanon&" alt="joassanon" /></p>
 
 ---
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D51G52TS)
 ![Made with ❤️ in Haiti](https://img.shields.io/badge/Made%20with%20❤️%20in%20Haiti-red?style=for-the-badge)
