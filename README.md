@@ -54,15 +54,7 @@ Completed an extensive program at [freeCodeCamp](https://freecodecamp.org).
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=joassanon&theme=default&show_icons=true&hide_border=true&count_private=true" alt="joassanon's GitHub Stats" />
-
----
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joassanon&theme=default&show_icons=true&hide_border=true&layout=compact" alt="joassanon's GitHub Stats" />
-
----
-
-<p><img src="https://streak-stats.demolab.com?user=joassanon&theme=default&hide_border=true" alt="joassanon's GitHub Stats" /></p>
+<img src="https://streak-stats.demolab.com?user=joassanon&theme=default&hide_border=true" alt="joassanon's GitHub Stats" />
 
 ---
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D51G52TS)
