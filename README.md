@@ -54,8 +54,8 @@ Completed an extensive program at [freeCodeCamp](https://freecodecamp.org).
 
 
 ---
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joassanon&" alt="joassanon" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joassanon&hide_border=true)](https://git.io/streak-stats)
+<p><img src="https://streak-stats.demolab.com?user=joassanon&theme=default&hide_border=true" alt="joassanon's GitHub Stats" /></p>
 
 ---
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D51G52TS)
