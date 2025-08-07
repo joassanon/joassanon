@@ -52,6 +52,13 @@ Completed an extensive program at [freeCodeCamp](https://freecodecamp.org).
 
 </details>
 
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=joassanon&theme=default&show_icons=true&hide_border=true&count_private=true" alt="joassanon's GitHub Stats" />
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joassanon&theme=default&show_icons=true&hide_border=true&layout=compact" alt="joassanon's GitHub Stats" />
 
 ---
 
